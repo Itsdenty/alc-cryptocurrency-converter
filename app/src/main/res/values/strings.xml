@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Crypto Currency Converter</string>
+        <string-array name="crypto_currency">
+        <item>BTC</item>
+        <item>ETH</item>
+    </string-array>
+
+    <string-array name="world_currency">
+        <item>AZN</item>
+        <item>AUD</item>
+        <item>BHD</item>
+        <item>BND</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>GIP</item>
+        <item>HKD</item>
+        <item>JOD</item>
+        <item>JPY</item>
+        <item>KWD</item>
+        <item>KYD</item>
+        <item>LVL</item>
+        <item>LYD</item>
+        <item>NGN</item>
+        <item>OMR</item>
+        <item>SGD</item>
+        <item>USD</item>
+    </string-array>
+</resources>
