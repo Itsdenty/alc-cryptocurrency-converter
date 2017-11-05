@@ -6,5 +6,9 @@
         android:icon="@drawable/ic_action_add"
         android:title="check currency"
         app:showAsAction="always"/>
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_autorenew"
+        android:title="check currency"
+        app:showAsAction="always"/>
 
 </menu>
